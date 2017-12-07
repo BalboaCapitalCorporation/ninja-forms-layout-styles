@@ -1,3 +1,4 @@
 {
-  "name": "wpninjas/ninja-forms-layout-styles"
+  "name": "wpninjas/ninja-forms-layout-styles",
+  "type": "wordpress-plugin"  
 }
